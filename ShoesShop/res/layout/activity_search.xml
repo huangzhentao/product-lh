@@ -47,6 +47,6 @@
         android:dividerHeight="0dp"
         android:listSelector="@null"
         android:scrollbars="none"
-        android:visibility="gone" />
+         />
 
 </RelativeLayout>

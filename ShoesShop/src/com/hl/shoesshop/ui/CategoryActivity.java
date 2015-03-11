@@ -14,7 +14,6 @@ import com.hl.shoesshop.entity.ShoesInfo;
 import com.hl.shoesshop.ui.base.BaseActivity;
 
 public class CategoryActivity extends BaseActivity {
-	private LinearLayout categoryView;
 	private ListView shoesList;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -35,7 +34,6 @@ public class CategoryActivity extends BaseActivity {
 
 	@Override
 	protected void initView() {
-		// TODO Auto-generated method stub
 
 	}
 
